@@ -1,0 +1,46 @@
+_repo: The-Wallypug-of-Why_61163
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Furniss, Harry
+    alias: Furniss, Henry
+    birthdate: 1854
+    deathdate: 1925
+    gutenberg_agent_id: '25492'
+    url: http://www.gutenberg.org/2009/agents/25492
+    wikipedia: https://en.wikipedia.org/wiki/Harry_Furniss
+  - agent_name: Furniss, Dorothy
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '43201'
+    url: http://www.gutenberg.org/2009/agents/43201
+creator:
+  author:
+    agent_name: Farrow, G. E. (George Edward)
+    alias: Farrow, George Edward
+    birthdate: 1866
+    gutenberg_agent_id: '7640'
+    url: http://www.gutenberg.org/2009/agents/7640
+    wikipedia: https://en.wikipedia.org/wiki/G._E._Farrow
+description: ''
+gutenberg_issued: '2020-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carroll, Lewis, 1832-1898 -- Parodies, imitations, etc.'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Nonsense verses'
+- !lcsh 'Imaginary places -- Juvenile fiction'
+- !lcsh 'Wit and humor, Juvenile'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: The Wallypug of Why
+url: http://www.gutenberg.org/ebooks/61163
